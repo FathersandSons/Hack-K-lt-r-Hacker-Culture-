@@ -1,8 +1,9 @@
-HACK NEDİR?
+## Hack Kültürü (Hacker Culture)
+### HACK NEDİR?
 Sözlük anlamına baktığımızda daha çok “kırmak, bir sisteme izinsiz erişim” gibi kavramlar görmekteyiz. Ama hack’i bununla sınırlandıramayız. Bu kavramların dışında günlük hayatı kolaylaştırmak için yapılan her şey de bir “hack” olabilir (life hack). Örneğin otobüse binmek için akbil basmamanın yolunu bulup para vermemek de bir hack sayılabilir.
 
-HACKER NEDİR?
-TDK: Bilgisayar ve haberleşme teknolojileri konusundaki bilgisini gizli verilere ulaşmak, ağlar üzerinde yasal olmayan zarar verici işler yapmak için kullanan kimse.
+### HACKER NEDİR?
+#### TDK: Bilgisayar ve haberleşme teknolojileri konusundaki bilgisini gizli verilere ulaşmak, ağlar üzerinde yasal olmayan zarar verici işler yapmak için kullanan kimse.
 
 Yapılan haberler ve popüler filmlerin etkileriyle ne kadar hacker kavramını kötü olarak görsek de sadece bu açıdan bakmak bu kültürü anlamak için fazla yüzeysel olur.
 
@@ -10,13 +11,13 @@ Bir diğer açıdan da bir kültürün tanımının onu oluşturan insanlar tara
 
 Bu bağlamda hackerlar genelde kendilerini “çok soru soran, soru sormayı bırakmayı reddeden ve meraklı” olarak tanımlarlar. Yani “araştırmacı bir zihne, macera tutkusuna ve ifade özgürlüğüne güçlü bir inanca sahip olan herkes içinde biraz hacker ruhu taşımaktadır”.
 
-KÜLTÜR NEDİR?
+### KÜLTÜR NEDİR?
 Bir toplumun duyuş ve düşünüş birliğini oluşturan, gelenek durumundaki her türlü yaşayış, düşünce ve sanat varlıklarının topu.
 
-ALT KÜLTÜR NEDİR?
+### ALT KÜLTÜR NEDİR?
 Bir alt kültür, kendisini ait olduğu ana kültürden farklılaştırır ve genellikle bazı kurucu ilkelerini korur. Alt kültürler, kültürel, politik ve cinsel konularda kendi normlarını ve değerlerini geliştirir. Örnek olarak hippiler, punklar, dazlaklar (skinheads) ve hack kültürü verilebilir.
 
-HACK KÜLTÜRÜ NEDİR?
+### HACK KÜLTÜRÜ NEDİR?
 Öncelikle hackerların neden sadece bir hareket veya duruştan ibaret olmayıp bir kültür olarak nitelendirdiğimizi açıklamakta fayda var.
 
 Bir hareket belli bir ortamda ve koşullar altında başlayıp biter. Duruş da bir bireyin hayatında o duruşun gerektirdiği bir takım değişiklikleri meydana getirir.
@@ -33,7 +34,7 @@ Daha sonraları bu kelime teknik bir soruna hayret verici çözümler bulma anla
 
 1969’ da ise ARPANET (İnternetin atası, dünyanın ilk paket dağıtımı ağı) kuruldu. Böylece hacker kültürü genele yayılma fırsatı bulmuş oldu.
 
-1980’ lerin sonuna doğru hacker kültürü bir değişim geçirdi. Bunda kişisel bilgisayarların gelişip yaygınlaşmaya başlaması ve sanal cemaatlerin internet üzerinden oluşmaya başlamış olması etkiliydi. Artık insanlar birbirleriyle iletişim kurabiliyor ve bilgi alış verişi yapabiliyordu.
+1980’ lerin sonuna doğru hacker kültürü bir değişim geçirdi. Bunda kişisel bilgisayarların gelişip yaygınlaşmaya başlaması ve sanal cemaatlerin internet üzerinden oluşmaya başlamış olması etkiliydi. Artık insanlar birbirleriyle iletişim kurabiliyor ve bilgi alışverişi yapabiliyordu.
 
 Bu durumdan rahatsız olan bir güç vardı: Devlet. İnternetin özerkliği ve sınırlarının olmaması devletin onu kontrol etme isteğini doğurdu.
 
@@ -43,24 +44,24 @@ Artık internet sadece bir laboratuvar mekanı değil suçun, marjinalliğin ve 
 
 Devletin de otoriteryen tavrı sebebiyle yaptıkları çoğu işler suç kapsamı altına alındı ve bu etiketleme bu alt kültüre damgalanmış oldu.
 
-HACK KÜLTÜRÜNÜN ANA İLKELERİ
-1- Bilgi özgürdür ve öyle kalmalıdır.
+### HACK KÜLTÜRÜNÜN ANA İLKELERİ
+- #### Bilgi özgürdür ve öyle kalmalıdır.
 
-2- Otoriteye asla güvenilmez.
+- #### Otoriteye asla güvenilmez.
 
-3- Merak her şeyden önemli bir dürtüdür.
+- #### Merak her şeyden önemli bir dürtüdür.
 
-4- Önemli olan birisinin nasıl göründüğü değil, nasıl düşündüğüdür.
+- #### Önemli olan birisinin nasıl göründüğü değil, nasıl düşündüğüdür.
 
-5- Siber uzayın doğasına dışarıdan bir müdahale kabul edilemez.
+- #### Siber uzayın doğasına dışarıdan bir müdahale kabul edilemez.
 
-6- Bilgisayarlar iyidir ve onlarla iyi şeyler yapabilirsiniz.
+- #### Bilgisayarlar iyidir ve onlarla iyi şeyler yapabilirsiniz.
 
 Bu etik kurallara ve kültüre baktığımızda aslında derin bir topluluk ve görüş görüyoruz. Hackerların sadece kötülük yapan, sistemleri bozan sivilceli bir ergen tanımlamalarından ibaret olmadığını anlıyoruz.
 
 Ancak bu tanımlamaların da hiçbir zaman sonu bu kültür bitmedikçe gelmeyecektir. Çünkü alt kültür dediğimiz şey de budur. Bizim de hangisinin haklı olup olmadığına karar verebilmemiz hangi kültüre kendimizi daha yakın hissettiğimizle ilişkili olacaktır.
 
-HACK KÜLTÜRÜNÜN DÜNYADA VE TÜRKİYEDE GÜNÜMÜZDEKİ HALİ
+### HACK KÜLTÜRÜNÜN DÜNYADA VE TÜRKİYEDE GÜNÜMÜZDEKİ HALİ
 Türkiye'de hackerlar yoğun biçimde 14–21 yaş aralığındaki erkeklerden oluşmaktadır. Gelir seviyeleri orta-alt seviyede ve eğitim düzeyleri lise-üniversite düzeyindedir.
 
 Türk ve yabancı hackerların arasındaki en belirgin fark Türklerin milli ve dini değerler doğrultusunda hareket etmeleridir. Siyasal görüş olarak herhangi bir görüşlerinin bulunmadığı ya da milliyetçi ve ülkücü oldukları saptanmıştır.
@@ -69,10 +70,10 @@ Teknoloji temelli bir alt kültür olduğu için ve Türkiye'ye bu teknolojiler 
 
 Yabancılardaki özgürleşimci ve anarşist köklerin yerini Türkiye'de muhafazakar ve milliyetçi bir temel almıştır.
 
-SONUÇ
+### SONUÇ
 Aslında bu yazıyı yazma amacım hackerların üzerine yapılan damgalandırmayı biraz olsun azaltabilmek ve bu kültürün aslında ne olduğunu anlatmaya çalışmak. Evet, bu teknolojiyi kötüye kullanıp insanların bilgilerini çalanlar, dolandırıcılık yapanlar ve daha bir sürü kötü şeyler yapanlar var. Burada yapmaya çalıştığım şey ise o grubu “hacker” kavramından ayırıp bu kültüre bakmak. Çünkü bugün her şeye ve herkese hacker denildiğini, bu sebeple de bir kavram karmaşasının oluştuğunu görebiliriz. Bu yüzden de direk bize sunulan bilgileri yemek yerine sorgulamak aslında bize çok şey katar.
 
-KAYNAKÇA
+### KAYNAKÇA
 https://en.wikipedia.org/wiki/Hacker_culture
 
 https://en.wikipedia.org/wiki/Subculture
